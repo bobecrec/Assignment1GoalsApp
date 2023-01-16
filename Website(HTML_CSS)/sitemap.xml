@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--  created with sitemap generator https://octopus.do  -->
+
+    <url>
+        <loc>https://www.mywebsite.com</loc>
+        <lastmod>2023-01-16</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://www.mywebsite.com/sign-in-page</loc>
+        <lastmod>2023-01-16</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://www.mywebsite.com/sign-up-page</loc>
+        <lastmod>2023-01-16</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://www.mywebsite.com/create-goal-page</loc>
+        <lastmod>2023-01-16</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://www.mywebsite.com/targets-page</loc>
+        <lastmod>2023-01-16</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://www.mywebsite.com/cookies</loc>
+        <lastmod>2023-01-16</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://www.mywebsite.com/404-error</loc>
+        <lastmod>2023-01-16</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+</urlset>
